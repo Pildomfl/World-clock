@@ -24,13 +24,7 @@ select {
 .container {
   max-width: 600px;
   margin: 60px auto;
-  background: radial-gradient(
-    1091px at 106.5% 111.5%,
-    rgb(250, 246, 213) 0.1%,
-    rgb(218, 147, 93) 42.2%,
-    rgb(137, 86, 67) 74.3%,
-    rgb(67, 39, 39) 100.2%
-  );
+  background: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
   padding: 30px;
   box-shadow: 25px 6px 21px rgba(0, 0, 0, 0.2);
   border-radius: 10px;
