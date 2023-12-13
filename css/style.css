@@ -41,6 +41,7 @@ select {
   justify-content: space-between;
   padding: 30px 0;
   border-bottom: 1px dashed rgba(0, 0, 0, 0.2);
+  color: #4f484f;
 }
 .city :last-child {
   border: none;
