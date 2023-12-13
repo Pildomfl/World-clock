@@ -6,7 +6,8 @@ h1 {
   text-align: center;
   font-family: sans-serif;
   font-size: 36px;
-  color: #6e5773;
+  text-shadow: 4px 5px 5px rgba(79, 72, 79, 0.6);
+  color: #4f484f;
 }
 h2 {
   margin: 0 0 5px;
